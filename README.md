@@ -3,7 +3,7 @@
 <img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/newbanner.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 
 ## 🙋‍♂️ About me:
-### Architect | BIM Developer | Data Scientist | Computational Design</h2>
+### Data Scientist | Data Analyst | Python Developer</h2>
 
 <div align="left">
 
