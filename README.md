@@ -7,8 +7,6 @@
 
 <div align="left">
 
-I am an architect with over 7 years of experience, **5 of which were dedicated to developing tools for automating** differents types of process like: design, budgeting, and VR/AR visualization.<br>
-<br>
 I believe that everything’s yet to be invented. My goal is to **simplify complex problems** and add maximum value to redesign the ways the world works.<br>
 <br>
 **My best assets?** I am -very- **disciplined**, with a **creative soul** and an **entrepreneurial mind**. I have a strong ability to **learn quickly**, work in **high-performing teams** and I am a firm believer in the power of never stopping learning.<br>
